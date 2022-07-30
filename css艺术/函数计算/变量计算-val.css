@@ -1,0 +1,6 @@
+:root {
+  --bg-color: red;
+}
+button {
+  background: val(--bg-color);
+}
